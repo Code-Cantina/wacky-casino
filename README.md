@@ -10,7 +10,7 @@
 * Custom levels, leaderboard, daily bonuses, avatars, stats, game history
 
 
-### Frameworks
+## Frameworks
 * UIKit
 * StoreKit
 * GameKit
