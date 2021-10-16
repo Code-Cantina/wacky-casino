@@ -19,7 +19,7 @@
 
 ## Lessons Learned
 * In App Purchases with Store Kit, the pains and the gains
-* Leaderboard integration with GameKit is pretty simple
+* Leaderboard integration with GameKit isn't too scary.
 * Spend more time mocking/scoping instead of winging it 🙄
 
 ## How To Get
